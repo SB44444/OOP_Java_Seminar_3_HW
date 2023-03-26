@@ -21,6 +21,8 @@
 *.a
 *.la
 *.lo
+*.idea
+*out
 
 # Shared objects (inc. Windows DLLs)
 *.dll
